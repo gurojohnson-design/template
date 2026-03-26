@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/gurojohnson-design/toDoList#readme",
   "devDependencies": {
+    "@babel/preset-env": "^7.29.2",
     "@eslint/js": "^10.0.1",
     "css-loader": "^7.1.4",
     "eslint": "^10.1.0",

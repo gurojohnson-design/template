@@ -19,4 +19,6 @@ Prettier install
 
     npm install --save-dev --save-exact prettier
 
-    
+Babel install
+
+    npm install --save-dev @babel/preset-env
